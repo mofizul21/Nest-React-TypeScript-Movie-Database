@@ -1,0 +1,1 @@
+{"version":3,"file":"movie.schema.js","sourceRoot":"","sources":["../../../src/movie/schemas/movie.schema.ts"],"names":[],"mappings":";;;AAAA,qCAAqC;AAExB,QAAA,WAAW,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IAC7C,KAAK,EAAE,MAAM;IACb,MAAM,EAAE,MAAM;IACd,WAAW,EAAE,MAAM;IACnB,MAAM,EAAE,MAAM;IACd,WAAW,EAAE,MAAM;CACpB,CAAC,CAAC"}
